@@ -1026,6 +1026,7 @@ video {
 .footer .icons i{
     margin-bottom: 60px;
     padding: 10px 15px;
+    cursor: pointer;
 }
 .footer .copyright span{
     font-weight: bold;
